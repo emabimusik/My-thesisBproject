@@ -1,0 +1,25 @@
+C:\Work\Projects\HowToSamples_Repository\BitmapContrast\BiTonalBitmap\BiTonalBitmap\bin\Debug\ImageContrast.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapContrast\BiTonalBitmap\BiTonalBitmap\bin\Debug\ImageContrast.pdb
+C:\Work\Projects\HowToSamples_Repository\BitmapContrast\BiTonalBitmap\BiTonalBitmap\obj\x86\Debug\ImageContrast.MainForm.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapContrast\BiTonalBitmap\BiTonalBitmap\obj\x86\Debug\ImageContrast.Properties.Resources.resources
+C:\Work\Projects\HowToSamples_Repository\BitmapContrast\BiTonalBitmap\BiTonalBitmap\obj\x86\Debug\ImageContrast.csproj.GenerateResource.Cache
+C:\Work\Projects\HowToSamples_Repository\BitmapContrast\BiTonalBitmap\BiTonalBitmap\obj\x86\Debug\ImageContrast.exe
+C:\Work\Projects\HowToSamples_Repository\BitmapContrast\BiTonalBitmap\BiTonalBitmap\obj\x86\Debug\ImageContrast.pdb
+C:\Work\Projects\HowToSamples_Repository\ImageContrast\ImageContrast\ImageContrast\obj\x86\Debug\ImageContrast.exe
+C:\Work\Projects\HowToSamples_Repository\ImageContrast\ImageContrast\ImageContrast\obj\x86\Debug\ImageContrast.pdb
+C:\Users\emabi\Downloads\ImageContrast\ImageContrast\ImageContrast\obj\x86\Debug\ImageContrast.exe
+C:\Users\emabi\Downloads\ImageContrast\ImageContrast\ImageContrast\obj\x86\Debug\ImageContrast.pdb
+C:\Users\emabi\Downloads\ImageContrast\ImageContrast\ImageContrast\bin\Debug\ImageContrast.exe
+C:\Users\emabi\Downloads\ImageContrast\ImageContrast\ImageContrast\bin\Debug\ImageContrast.pdb
+C:\Users\emabi\Downloads\ImageContrast\ImageContrast\ImageContrast\obj\x86\Debug\ImageContrast.csprojResolveAssemblyReference.cache
+C:\Users\emabi\Downloads\ImageContrast\ImageContrast\ImageContrast\obj\x86\Debug\ImageContrast.MainForm.resources
+C:\Users\emabi\Downloads\ImageContrast\ImageContrast\ImageContrast\obj\x86\Debug\ImageContrast.Properties.Resources.resources
+C:\Users\emabi\Downloads\ImageContrast\ImageContrast\ImageContrast\obj\x86\Debug\ImageContrast.csproj.GenerateResource.Cache
+C:\Users\Vlad Ilie\Desktop\ImageContrast\ImageContrast\ImageContrast\obj\x86\Debug\ImageContrast.exe
+C:\Users\Vlad Ilie\Desktop\ImageContrast\ImageContrast\ImageContrast\obj\x86\Debug\ImageContrast.pdb
+C:\Users\Vlad Ilie\Desktop\ImageContrast\ImageContrast\ImageContrast\bin\Debug\ImageContrast.exe
+C:\Users\Vlad Ilie\Desktop\ImageContrast\ImageContrast\ImageContrast\bin\Debug\ImageContrast.pdb
+C:\Users\Vlad Ilie\Desktop\ImageContrast\ImageContrast\ImageContrast\obj\x86\Debug\ImageContrast.csprojResolveAssemblyReference.cache
+C:\Users\Vlad Ilie\Desktop\ImageContrast\ImageContrast\ImageContrast\obj\x86\Debug\ImageContrast.MainForm.resources
+C:\Users\Vlad Ilie\Desktop\ImageContrast\ImageContrast\ImageContrast\obj\x86\Debug\ImageContrast.Properties.Resources.resources
+C:\Users\Vlad Ilie\Desktop\ImageContrast\ImageContrast\ImageContrast\obj\x86\Debug\ImageContrast.csproj.GenerateResource.Cache
